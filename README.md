@@ -12,6 +12,10 @@ The hypotheses for  this project are:
 3. Employees with higher levels of education may earn higher salaries.
 4. Employees with a longer employment duration may receive more positive performance reviews.
 
+Tools Used
+Jupyter Notebook: For data cleaning and preprocessing.
+Pandas: For data manipulation and analysis.
+Matplotlib: For creating visualizations.
 
 Insights:
 1. The lack of significant correlation between gender, age, or education level with salary levels suggests that the company's compensation structure may be fair and unbiased, fostering trust and morale among employees.
